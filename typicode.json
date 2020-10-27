@@ -1,0 +1,31 @@
+{
+	"TypiCode Posts": {
+		"prefix": "tcposts",
+		"body": ["https://jsonplaceholder.typicode.com/posts"],
+		"description": "TypiCode Posts"
+	},
+	"TypiCode Comments": {
+		"prefix": "tcc",
+		"body": ["https://jsonplaceholder.typicode.com/comments"],
+		"description": "TypiCode Comments"
+	},
+	"TypiCode Albums": {
+		"prefix": "tca",
+		"body": ["https://jsonplaceholder.typicode.com/albums"],
+		"description": "TypiCode Albums"
+	},
+	"TypiCode Photos": {
+		"prefix": "tcphotos",
+		"body": ["https://jsonplaceholder.typicode.com/photos"],
+		"description": "TypiCode Photos"
+	},
+	"TypiCode Todos": {
+		"prefix": "tct",
+		"body": ["https://jsonplaceholder.typicode.com/todos"],
+		"description": "TypiCode Todos"
+	},
+	"TypiCode Users": {
+		"prefix": "tcu",
+		"body": ["https://jsonplaceholder.typicode.com/users"],
+		"description": "TypiCode Users"
+	}
