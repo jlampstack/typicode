@@ -19,14 +19,10 @@
 
 &nbsp;
 
-| Steps | Description                                          |
-| ----- | ---------------------------------------------------- |
-| #1    | `[git clone]` to local repository                    |
-| #2    | Open & copy `typicode.json`                          |
-| #3    | `CTRL + SHIFT + P ` command in VS Code to search     |
-| #4    | `Preferences: Configure User Snippets`               |
-| #5    | Open `jasonscript.json`                              |
-|       | Can alternatively create a new global snippet        |
-|       | I named mine typicode.json but the name is arbitrary |
-| #6    | Paste the copied code into your json file            |
-| #7    | Use snippets                                         |
+| Steps | Description                                             |
+| ----- | ------------------------------------------------------- |
+| 1     | `Open` typicode.js                                      |
+| 2     | `Copy` content                                          |
+| 3     | `Paste` content into appropriate json snippet file      |
+| 4     | `Snippets` may need to be modified if there is conflict |
+| 5     | `Modify` to your desired preference [optional]          |
